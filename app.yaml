@@ -1,0 +1,12 @@
+runtime: python312
+
+handlers:
+- url: /
+  static_files: web/dashboard.html
+  upload: web/dashboard.html
+
+- url: /api/.*
+  script: auto
+
+- url: /socket.io/.*
+  script: auto
