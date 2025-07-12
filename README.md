@@ -3,7 +3,7 @@ A comprehensive network security simulation platform that demonstrates zero-trus
 live link: https://zerotrustnetworksimulator.wl.r.appspot.com
 
 # Architecture Overview
-(https://github.com/user-attachments/assets/cd4518a1-5a83-4478-8547-cbb5ddcb4f5b)
+![zerotrust_architecture_diagram](https://github.com/user-attachments/assets/56fd20b1-0cc2-4622-b385-bd21c0977dad)
 
 # Key Features
 Zero-Trust Security Model
