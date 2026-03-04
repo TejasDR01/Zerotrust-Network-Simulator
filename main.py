@@ -604,5 +604,6 @@ if __name__ == '__main__':
         host='0.0.0.0', 
         port=8080,
         debug=True,
+        allow_unsafe_werkzeug=True,
         use_reloader=False  # Disable reloader to prevent threading issues
     )
